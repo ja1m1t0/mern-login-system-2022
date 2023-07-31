@@ -51,7 +51,7 @@ function Nav(props) {
                      <div className={NavStyles.container2}>
                          <Link className={`d-block ${NavStyles.linkBTN}`} to="/account/login">Login</Link>
                          <span className={NavStyles.or}>or</span>
-                         <Link className={NavStyles.linkBTN} to="account/signup">Singup</Link>
+                         <Link className={NavStyles.linkBTN} to="account/signup">Signup</Link>
                      </div>
                  
                  </div>
